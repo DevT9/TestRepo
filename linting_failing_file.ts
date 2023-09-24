@@ -14,3 +14,5 @@ myFunction(1, 2);
 myFunction(0, 3);
 myFunction(4, 0);
 myFunction(0, 0);
+const x = 5;
+const y = 7;
